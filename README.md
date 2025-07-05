@@ -20,7 +20,7 @@ To begin, I created a new text file called `exercise.txt` and opened it using Vi
 ```
 vim exercise.txt
 ```
-
+![](https://github.com/adaezeokoduwa/linux-third-mini-project/blob/main/images/VIM11.png?raw=true)
 ### Step 2: Entering Insert Mode
 Once Vim opened, I pressed the `i` key to enter **Insert Mode**, which allows typing text into the file.
 
@@ -30,6 +30,7 @@ In Insert Mode, I typed the following:
 Hello, this is a Vim hands-on project.
 Welcome to darey.io.
 ```
+![](https://github.com/adaezeokoduwa/linux-third-mini-project/blob/main/images/VIM1.png?raw=true)
 
 ### Step 4: Saving and Exiting Vim
 To save and quit Vim:
@@ -45,20 +46,21 @@ To save and quit Vim:
 
 ---
 
-## ðŸ“ Working With Nano Editor
+## Working With Nano Editor
 
 ### Step 1: Creating and Opening a File
 I created a new file named `nano_file.txt` using Nano:
 ```
 nano project_file.txt
 ```
-
+![](https://github.com/adaezeokoduwa/linux-third-mini-project/blob/main/images/nano11.png?raw=true)
 ### Step 2: Typing Into the File
 Once inside the Nano editor, I started typing immediately:
 ```
 This is my first Nano text file.
 Nano is simple and easy to use.
 ```
+![](https://github.com/adaezeokoduwa/linux-third-mini-project/blob/main/images/nano1.png?raw=true)
 
 ### Step 3: Saving and Exiting Nano
 To save and quit Nano:
@@ -73,6 +75,7 @@ nano nano project_file.txt
 - I added more few line
 - save with ctrt + o
 - exist with ctr + x
+![](https://github.com/adaezeokoduwa/linux-third-mini-project/blob/main/images/nano111.png?raw=true)
 ---
 
 ## What I Learned
